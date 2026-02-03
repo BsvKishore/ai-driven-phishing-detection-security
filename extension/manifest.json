@@ -1,0 +1,13 @@
+{
+ "manifest_version": 3,
+ "name": "AI Password Generator",
+ "version": "1.0",
+ "description": "Generates strong passwords to reduce password fatigue.",
+ "action": {
+ "default_popup": "popup.html",
+ "default_title": "AI Password Generator"
+ },
+ "permissions": [
+ "clipboardWrite"
+ ]
+}
